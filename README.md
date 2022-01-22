@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenjaminDemouge
 - 👀 I’m interested in Artificial Intelligence (AI) and Data science.
 - 🌱 I’m currently learning how to become an engineer in AI and DATA field 
-- 💞️ I’m looking to collaborate on any project related to AI and data science.
+- 💞️ I’m open to collaborate on any project related to AI and data science.
 - 📫 How to reach me ben.demouge@gmail.com or benjamin.demouge@edu.devinci.fr
 
 <!---
