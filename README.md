@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @BenjaminDemouge
+- 👋 Hi, I’m @BenjaminDemouge, an AI engineer/ data scientist.
 - 👀 I’m interested in Artificial Intelligence (AI) and Data science.
-- 🌱 I’m currently learning how to become an engineer in AI and DATA field 
 - 💞️ I’m open to collaborate on any project related to AI and data science.
-- 📫 How to reach me ben.demouge@gmail.com or benjamin.demouge@edu.devinci.fr
+- 📫 How to reach me ben.demouge@gmail.com
 
 <!---
 BenjaminDemouge/BenjaminDemouge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
