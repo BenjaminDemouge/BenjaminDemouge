@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BenjaminDemouge, an AI engineer/ data scientist.
-- 👀 I’m interested in Artificial Intelligence (AI) and Data science.
+- 👋 Hi, I’m @BenjaminDemouge, an AI Engineer/ Data Scientist/ Data Engineer.
+- 👀 I’m interested in Artificial Intelligence (AI) / Data Science / Data Engineering.
 - 💞️ I’m open to collaborate on any project related to AI and data science.
 - 📫 How to reach me ben.demouge@gmail.com
 
